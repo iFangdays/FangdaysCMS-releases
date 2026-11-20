@@ -1,0 +1,12 @@
+{
+    "key_id": "fd-2026",
+    "version": "2.0.0",
+    "sha256": "0a1e8d2555b402ebb6df1c8b069dfdbe26970fa0ac234bcffc40d3f0f115900c",
+    "size": 9880046,
+    "url": "https://raw.githubusercontent.com/iFangdays/FangdaysCMS-releases/main/releases/2.0.0/fangdayscms-2.0.0.zip",
+    "notes": "FangdaysCMS 2.0.0 正式版：\n1. 全面支持 GEO 优化（品牌事实库、收录推送、内容评分、效果监控、AI 接口）\n2. 网站菜单独立管理与批量大纲新增、表单按需联动、多域名绑定与授权提醒简化\n3. 列表正文按需加载、页面缓存按设备隔离、无 sodium/chmod 虚拟主机兼容\n4. 在线升级支持后台自动检测官方签名新版本、顶部横幅与菜单徽标提醒、一键下载暂存与备份升级",
+    "released_at": 1795166625,
+    "files": 1005,
+    "archive": "fangdayscms-2.0.0.zip",
+    "manifest": "FDU1.eyJrZXlfaWQiOiJmZC0yMDI2IiwidmVyc2lvbiI6IjIuMC4wIiwic2hhMjU2IjoiMGExZThkMjU1NWI0MDJlYmI2ZGYxYzhiMDY5ZGZkYmUyNjk3MGZhMGFjMjM0YmNmZmM0MGQzZjBmMTE1OTAwYyIsInNpemUiOjk4ODAwNDYsInVybCI6Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9pRmFuZ2RheXMvRmFuZ2RheXNDTVMtcmVsZWFzZXMvbWFpbi9yZWxlYXNlcy8yLjAuMC9mYW5nZGF5c2Ntcy0yLjAuMC56aXAiLCJub3RlcyI6IkZhbmdkYXlzQ01TIDIuMC4wIOato-W8j-eJiO-8mlxuMS4g5YWo6Z2i5pSv5oyBIEdFTyDkvJjljJbvvIjlk4HniYzkuovlrp7lupPjgIHmlLblvZXmjqjpgIHjgIHlhoXlrrnor4TliIbjgIHmlYjmnpznm5HmjqfjgIFBSSDmjqXlj6PvvIlcbjIuIOe9keermeiPnOWNleeLrOeri-euoeeQhuS4juaJuemHj-Wkp-e6suaWsOWinuOAgeihqOWNleaMiemcgOiBlOWKqOOAgeWkmuWfn-WQjee7keWumuS4juaOiOadg-aPkOmGkueugOWMllxuMy4g5YiX6KGo5q2j5paH5oyJ6ZyA5Yqg6L2944CB6aG16Z2i57yT5a2Y5oyJ6K6-5aSH6ZqU56a744CB5pegIHNvZGl1bS9jaG1vZCDomZrmi5_kuLvmnLrlhbzlrrlcbjQuIOWcqOe6v-WNh-e6p-aUr-aMgeWQjuWPsOiHquWKqOajgOa1i-WumOaWueetvuWQjeaWsOeJiOacrOOAgemhtumDqOaoquW5heS4juiPnOWNleW-veagh-aPkOmGkuOAgeS4gOmUruS4i-i9veaaguWtmOS4juWkh-S7veWNh-e6pyIsInJlbGVhc2VkX2F0IjoxNzk1MTY2NjI1fQ.CI0lKuwa2egRh0-ZQghKlfjKiwOIE7oAAJGgdZXgm8iBLMM7I3Y0elakjpWjLNsOnO27FU00XAp8jS4ywCh7BQ"
+}
