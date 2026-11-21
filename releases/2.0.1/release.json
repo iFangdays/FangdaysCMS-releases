@@ -1,0 +1,12 @@
+{
+    "key_id": "fd-2026",
+    "version": "2.0.1",
+    "sha256": "df2cac4c76ef328ddf7cde527ad2a6a29f8f4490caefa2537053fe5bc42b56eb",
+    "size": 9921776,
+    "url": "https://cdn.jsdelivr.net/gh/iFangdays/FangdaysCMS-releases@main/releases/2.0.1/fangdayscms-2.0.1.zip",
+    "notes": "FangdaysCMS 2.0.1 正式版：\n1. 新增前台侧边在线客服浮窗与后台可编辑邮件通知模板\n2. 公司信息支持百度/高德地图坐标标注与前端地图卡片展示，默认主题视觉焕新\n3. GEO 优化新增独立推送记录页签、工作台待推送看板、百度日配额追赶推送与拒绝计数修正\n4. 在线升级支持 cURL 优先传输与 jsDelivr 官方多镜像自动回退，解决国内虚拟主机直连 GitHub 超时问题",
+    "released_at": 1795247157,
+    "files": 1011,
+    "archive": "fangdayscms-2.0.1.zip",
+    "manifest": "FDU1.eyJrZXlfaWQiOiJmZC0yMDI2IiwidmVyc2lvbiI6IjIuMC4xIiwic2hhMjU2IjoiZGYyY2FjNGM3NmVmMzI4ZGRmN2NkZTUyN2FkMmE2YTI5ZjhmNDQ5MGNhZWZhMjUzNzA1M2ZlNWJjNDJiNTZlYiIsInNpemUiOjk5MjE3NzYsInVybCI6Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9pRmFuZ2RheXMvRmFuZ2RheXNDTVMtcmVsZWFzZXNAbWFpbi9yZWxlYXNlcy8yLjAuMS9mYW5nZGF5c2Ntcy0yLjAuMS56aXAiLCJub3RlcyI6IkZhbmdkYXlzQ01TIDIuMC4xIOato-W8j-eJiO-8mlxuMS4g5paw5aKe5YmN5Y-w5L6n6L655Zyo57q_5a6i5pyN5rWu56qX5LiO5ZCO5Y-w5Y-v57yW6L6R6YKu5Lu26YCa55-l5qih5p2_XG4yLiDlhazlj7jkv6Hmga_mlK_mjIHnmb7luqYv6auY5b635Zyw5Zu-5Z2Q5qCH5qCH5rOo5LiO5YmN56uv5Zyw5Zu-5Y2h54mH5bGV56S677yM6buY6K6k5Li76aKY6KeG6KeJ54SV5pawXG4zLiBHRU8g5LyY5YyW5paw5aKe54us56uL5o6o6YCB6K6w5b2V6aG1562-44CB5bel5L2c5Y-w5b6F5o6o6YCB55yL5p2_44CB55m-5bqm5pel6YWN6aKd6L-96LW25o6o6YCB5LiO5ouS57ud6K6h5pWw5L-u5q2jXG40LiDlnKjnur_ljYfnuqfmlK_mjIEgY1VSTCDkvJjlhYjkvKDovpPkuI4ganNEZWxpdnIg5a6Y5pa55aSa6ZWc5YOP6Ieq5Yqo5Zue6YCA77yM6Kej5Yaz5Zu95YaF6Jma5ouf5Li75py655u06L-eIEdpdEh1YiDotoXml7bpl67popgiLCJyZWxlYXNlZF9hdCI6MTc5NTI0NzE1N30.HxKjoLM-aSUz4miV01SacwnA8Xi6EKC8J_AMVkKQ4UKHTWNssLScZMGL2ftlzthGpTi1DXrn25lovpcAmBo9Dw"
+}
